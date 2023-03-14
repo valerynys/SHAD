@@ -8,7 +8,8 @@ cd shad-go
 go test ./sum/...
 ```
 
-Проект можно открыть в любой go IDE с поддержкой модулей.
+## Репозиторий курса
+https://github.com/slon/shad-go
 
 ## Информация
 
